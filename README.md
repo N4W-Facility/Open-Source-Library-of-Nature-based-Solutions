@@ -1,13 +1,182 @@
-# Parametric-Nature-based-Solutions-Library
+# Parametric-Nature-based-Solutions-Library and conceptual library of NbS in Autodesk 3ds Max
 
-Nature-based Solutions are increasingly recognized as essential components of resilient infrastructure systems. However, despite their growing adoption in engineering practice, designers often lack standardized digital components that allow these solutions to be incorporated efficiently into BIM workflows. Unlike conventional infrastructure elements, which are supported by extensive libraries of parametric objects, many NbS continue to be represented using generic geometry or custom models developed independently for each project.
+Nature-based Solutions (NbS) are increasingly recognized as important components of resilient and sustainable infrastructure systems. However, despite their growing adoption in engineering and planning practice, designers often lack standardized digital components that allow these solutions to be efficiently incorporated into digital engineering and Building Information Modeling (BIM) workflows.
 
-This lack of standardized engineering components creates several challenges. It reduces consistency across projects, increases modeling effort, and limits the ability of multidisciplinary teams to integrate Nature-based Solutions into coordinated BIM environments. As a result, engineers frequently spend valuable time recreating design elements rather than focusing on evaluating performance, refining layouts, and coordinating with other infrastructure systems.
+Unlike conventional infrastructure elements, which are commonly supported by extensive libraries of standardized and parametric objects, many NbS continue to be represented using generic geometry or custom models developed independently for each project. This increases modeling effort, reduces consistency across projects, and limits the ability of multidisciplinary teams to integrate NbS into coordinated digital environments.
 
-To address this challenge, this library of Revit parametric families representing common nature-based solutions (NbS) has been created. The goal of this initiative is to provide engineers and designers with reusable digital components that can be incorporated into conceptual and preliminary engineering designs, while maintaining consistency across projects.
+To help address this gap, The Nature Conservancy (TNC) has developed two complementary digital libraries of Nature-based Solutions:
 
-Each family has been developed using parametric modeling principles, allowing key geometric characteristics to be modified while preserving the engineering intent of the solution. This flexibility enables designers to adapt the components to different site conditions, project requirements, and planning scenarios without recreating models from the ground up. By combining standardization with adaptability, the library supports more efficient workflows while maintaining the level of flexibility required during early project development.
+- **A parametric library of four NbS developed in Autodesk Revit**, intended to support BIM-based conceptual and preliminary engineering workflows.
+- **A conceptual library of eighteen NbS developed in Autodesk 3ds Max**, intended to support visualization, planning, communication, and stakeholder engagement.
 
-Beyond improving modeling efficiency, standardized Revit families promote better collaboration across disciplines. Because the components exist within a BIM environment, they can be coordinated alongside transportation infrastructure, utilities, drainage systems, landscape architecture, and other project elements. This integrated approach improves design consistency, facilitates clash detection, and enhances communication among engineers, planners, architects, and environmental specialists throughout the project lifecycle.
+Together, these libraries provide reusable digital resources that help integrate Nature-based Solutions into different stages of infrastructure planning, engineering design, visualization, and communication.
 
-Although the current library focuses on a selected group of NbS commonly applied in water infrastructure projects, it has been designed as a scalable framework that can expand over time. Additional solutions, regional adaptations, and enhanced engineering parameters can be incorporated as the library evolves, creating a shared digital resource that supports the broader adoption of NbS within civil engineering practice.
+---
+
+## Download the Libraries
+
+Due to the size of the complete library (approximately 10 GB), the model files are not hosted directly in this GitHub repository.
+
+The complete Revit and Autodesk 3ds Max libraries can be downloaded from the following Box repository:
+
+**[Download the Nature-based Solutions Libraries](https://tnc.box.com/s/5xlr3bg5xfb1chwrj6q6p37wpsjk93yc)**
+
+---
+
+# Parametric Nature-based Solutions Library in Autodesk Revit
+
+Engineering drawings, technical reports, GIS analyses, and BIM models provide the information required to design and coordinate infrastructure projects. However, the digital representation of Nature-based Solutions within engineering workflows remains less standardized than that of conventional infrastructure.
+
+To support their incorporation into BIM environments, TNC has developed a collection of **four detailed parametric Revit families representing common Nature-based Solutions**.
+
+The objective of this library is to provide engineers and designers with reusable digital components that can be incorporated into conceptual and preliminary engineering designs while improving consistency across projects and reducing the need to recreate similar elements for each application.
+
+Each family has been developed using parametric modeling principles, allowing relevant geometric characteristics to be modified while maintaining the overall engineering concept represented by the component. This flexibility allows designers to adapt the models to different site conditions, project requirements, preliminary layouts, and planning scenarios without recreating the models from the ground up.
+
+The use of standardized parametric components can also facilitate multidisciplinary coordination by allowing NbS to be incorporated into the same BIM environments used to represent transportation infrastructure, drainage systems, utilities, buildings, landscape elements, and other infrastructure components.
+
+### Revit library
+
+The current parametric library includes four Nature-based Solutions:
+
+1. **Rain Garden**
+2. **Filter Trench**
+3. **Constructed Wetland**
+4. **Bioretention Pond**
+
+These models are intended primarily to support **conceptual and preliminary engineering workflows**. Their dimensions, configurations, materials, and engineering characteristics should therefore be reviewed and adapted according to project-specific conditions and applicable design requirements before implementation.
+
+The library has been conceived as a scalable framework that can evolve over time. Additional Nature-based Solutions, parameters, configurations, regional adaptations, and engineering attributes may be incorporated as the library expands.
+
+---
+
+# Conceptual Library of Nature-based Solutions in Autodesk 3ds Max
+
+Nature-based Solutions frequently involve landscape and infrastructure transformations that can be difficult for non-technical audiences to interpret through conventional engineering drawings, reports, or BIM models alone.
+
+Three-dimensional visualization provides an effective way to bridge this communication gap by transforming engineering and planning concepts into digital environments that communicate the appearance, scale, spatial configuration, and integration of proposed interventions within the surrounding landscape.
+
+To support this objective, TNC has developed a **conceptual library of eighteen Nature-based Solutions in Autodesk 3ds Max**.
+
+Unlike the parametric Revit families, the Autodesk 3ds Max models are primarily intended for **conceptual visualization and communication rather than detailed engineering design**. The models prioritize visual representation, landscape integration, and flexibility, allowing project teams to rapidly incorporate NbS into digital environments.
+
+The assets can support the development of:
+
+- Conceptual project visualizations
+- Renderings
+- Animations
+- Planning scenarios
+- Infrastructure and landscape visualizations
+- Technical presentations
+- Stakeholder workshops
+- Participatory planning processes
+- Alternative comparison exercises
+- Public communication materials
+- Digital storytelling
+
+By providing reusable conceptual models, the library reduces the effort required to represent NbS in visualization environments and helps establish a more consistent visual language across projects.
+
+### Autodesk 3ds Max conceptual library
+
+The current conceptual library includes eighteen Nature-based Solutions:
+
+1. **Restoration**
+2. **Riparian Vegetation Restoration**
+3. **Floodplains**
+4. **Renaturalization of Water Bodies**
+5. **Bioretention Ponds**
+6. **Rain Gardens**
+7. **Constructed Wetlands**
+8. **Green Filter Area**
+9. **Filter Trenches**
+10. **Vegetated Channels (Swales)**
+11. **Floodable Parks**
+12. **Green Roofs**
+13. **Permeable Pavements**
+14. **Cycle-Pedestrian Paths with Green Pavements**
+15. **Green Spaces**
+16. **Urban Watershed Forestry**
+17. **Agroforestry**
+18. **Water Harvesting**
+
+The conceptual models can be incorporated into larger digital environments and combined with infrastructure, terrain, vegetation, buildings, transportation systems, and other contextual elements to illustrate how Nature-based Solutions interact with the built and natural environment.
+
+Although primarily developed for visualization and communication, these models can also support multidisciplinary collaboration during the early stages of project development by helping teams compare alternatives, discuss spatial configurations, facilitate workshops, and communicate project concepts to audiences with different levels of technical expertise.
+
+---
+
+# Complementary Digital Workflow
+
+The Revit and Autodesk 3ds Max libraries have been developed for different but complementary purposes.
+
+| Parametric Revit Library | Conceptual 3ds Max Library |
+|---|---|
+| BIM-oriented | Visualization-oriented |
+| Parametric components | Conceptual 3D models |
+| Conceptual and preliminary engineering | Planning and communication |
+| Geometric adaptability | Visual and landscape flexibility |
+| Multidisciplinary model coordination | Rendering and animation |
+| 4 Nature-based Solutions | 18 Nature-based Solutions |
+
+The intention is not for the two libraries to be interchangeable. Instead, they support different stages and requirements within a broader digital engineering workflow.
+
+The parametric Revit library provides components that can be incorporated into BIM environments during conceptual and preliminary design, while the Autodesk 3ds Max library provides visual assets that help communicate those concepts within realistic or conceptual project environments.
+
+These resources can also complement other digital tools used throughout the development of Nature-based Solutions. For example, project teams may integrate scientific and spatial analyses, landscape-scale planning models, BIM-based engineering components, and realistic three-dimensional visualization to establish a connected workflow extending from watershed assessment to infrastructure planning, engineering design, and stakeholder communication.
+
+---
+
+# Intended Use
+
+The libraries are intended to support applications such as:
+
+- Nature-based Solutions planning
+- Conceptual engineering
+- Preliminary design
+- BIM workflows
+- Multidisciplinary coordination
+- Infrastructure planning
+- Landscape planning
+- Three-dimensional visualization
+- Rendering and animation
+- Stakeholder engagement
+- Technical communication
+- Participatory planning
+- Training and educational applications
+
+These digital resources are intended to support project development and communication and do not replace the site-specific technical analyses required for implementation.
+
+Depending on the Nature-based Solution and project context, implementation may require hydrologic, hydraulic, geotechnical, structural, ecological, environmental, landscape, permitting, or other discipline-specific assessments.
+
+---
+
+# Future Development
+
+The libraries have been designed as scalable digital resources that can continue evolving as Nature-based Solutions become increasingly integrated into infrastructure planning and engineering practice.
+
+Future development may include:
+
+- Additional Nature-based Solutions
+- Enhanced parametric controls
+- Additional BIM parameters and metadata
+- Alternative configurations
+- Regional adaptations
+- Additional materials and visualization assets
+- Improved interoperability with other digital engineering tools
+- Additional documentation and examples
+
+The long-term objective is to contribute to a more standardized and efficient digital workflow for incorporating Nature-based Solutions into infrastructure projects while improving collaboration between engineering, environmental, planning, and design disciplines.
+
+---
+
+# Access to the Libraries
+
+The complete digital libraries are freely available through the following Box repository:
+
+**[Download the Parametric Revit and Conceptual Autodesk 3ds Max NbS Libraries](https://tnc.box.com/s/5xlr3bg5xfb1chwrj6q6p37wpsjk93yc)**
+
+---
+
+## About
+
+These libraries were developed by **The Nature Conservancy (TNC)** to support the integration of Nature-based Solutions into digital engineering, planning, visualization, and communication workflows.
