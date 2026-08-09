@@ -15,7 +15,7 @@ Together, these libraries provide reusable digital resources that help integrate
 
 ## Download the Libraries
 
-Due to the size of the complete library (approximately 10 GB), the model files are not hosted directly in this GitHub repository.
+Due to the size of the complete library (approximately 7 GB), the model files are not hosted directly in this GitHub repository.
 
 The complete Revit and Autodesk 3ds Max libraries can be downloaded from the following Box repository:
 
